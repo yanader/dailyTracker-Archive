@@ -4,17 +4,17 @@
 
 @font-face {
     font-family: 'incReg';
-    src: url(../../../media/fonts/Inconsolata-Regular.ttf);
+    src: url(./fonts/Inconsolata-Regular.ttf);
 }
 
 @font-face {
     font-family: 'orator';
-    src: url(../../../media/fonts/Orator-Std-Font.otf);
+    src: url(./fonts/Orator-Std-Font.otf);
 }
 
 @font-face {
     font-family: 'banq';
-    src: url(../../../media/fonts/Banquise-Regular.otf);
+    src: url(./fonts/Banquise-Regular.otf);
 }
 
 
